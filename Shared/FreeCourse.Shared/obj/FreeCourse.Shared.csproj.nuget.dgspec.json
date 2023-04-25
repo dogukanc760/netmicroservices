@@ -1,28 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dogukancanerler/RiderProjects/Net7Microservices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj": {}
+    "/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj": {}
   },
   "projects": {
-    "/Users/dogukancanerler/RiderProjects/Net7Microservices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj": {
+    "/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dogukancanerler/RiderProjects/Net7Microservices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
+        "projectUniqueName": "/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
         "projectName": "FreeCourse.Shared",
-        "projectPath": "/Users/dogukancanerler/RiderProjects/Net7Microservices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
-        "packagesPath": "/Users/dogukancanerler/.nuget/packages/",
-        "outputPath": "/Users/dogukancanerler/RiderProjects/Net7Microservices/Shared/FreeCourse.Shared/obj/",
+        "projectPath": "/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
+        "packagesPath": "/Users/overcodexdev/.nuget/packages/",
+        "outputPath": "/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/dogukancanerler/.nuget/NuGet/NuGet.Config"
+          "/Users/overcodexdev/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.telerik.com/nuget": {},
-          "https://nuget.telerik.com/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
@@ -48,6 +46,10 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.19.1, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -69,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.203/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }
