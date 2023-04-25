@@ -8,3 +8,13 @@
 /Users/dogukancanerler/RiderProjects/Net7Microservices/Shared/FreeCourse.Shared/obj/Debug/netstandard2.1/FreeCourse.Shared.csproj.CoreCompileInputs.cache
 /Users/dogukancanerler/RiderProjects/Net7Microservices/Shared/FreeCourse.Shared/obj/Debug/netstandard2.1/FreeCourse.Shared.dll
 /Users/dogukancanerler/RiderProjects/Net7Microservices/Shared/FreeCourse.Shared/obj/Debug/netstandard2.1/FreeCourse.Shared.pdb
+/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/bin/Debug/netstandard2.1/FreeCourse.Shared.deps.json
+/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/bin/Debug/netstandard2.1/FreeCourse.Shared.dll
+/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/bin/Debug/netstandard2.1/FreeCourse.Shared.pdb
+/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/obj/Debug/netstandard2.1/FreeCourse.Shared.csproj.AssemblyReference.cache
+/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/obj/Debug/netstandard2.1/FreeCourse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/obj/Debug/netstandard2.1/FreeCourse.Shared.AssemblyInfoInputs.cache
+/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/obj/Debug/netstandard2.1/FreeCourse.Shared.AssemblyInfo.cs
+/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/obj/Debug/netstandard2.1/FreeCourse.Shared.csproj.CoreCompileInputs.cache
+/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/obj/Debug/netstandard2.1/FreeCourse.Shared.dll
+/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/obj/Debug/netstandard2.1/FreeCourse.Shared.pdb

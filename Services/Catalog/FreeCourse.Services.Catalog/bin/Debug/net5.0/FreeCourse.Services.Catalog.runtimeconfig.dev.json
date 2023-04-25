@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/dogukancanerler/.dotnet/store/|arch|/|tfm|",
-      "/Users/dogukancanerler/.nuget/packages"
+      "/Users/overcodexdev/.dotnet/store/|arch|/|tfm|",
+      "/Users/overcodexdev/.nuget/packages"
     ]
   }
 }
