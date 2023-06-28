@@ -8600,24 +8600,32 @@
     ]
   },
   "packageFolders": {
-    "/Users/overcodexdev/.nuget/packages/": {}
+    "C:\\Users\\doguk\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\doguk\\Documents\\netmicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
       "projectName": "FreeCourse.Shared",
-      "projectPath": "/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/FreeCourse.Shared.csproj",
-      "packagesPath": "/Users/overcodexdev/.nuget/packages/",
-      "outputPath": "/Users/overcodexdev/Desktop/ocx-git/netmicroservices/Shared/FreeCourse.Shared/obj/",
+      "projectPath": "C:\\Users\\doguk\\Documents\\netmicroservices\\Shared\\FreeCourse.Shared\\FreeCourse.Shared.csproj",
+      "packagesPath": "C:\\Users\\doguk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\doguk\\Documents\\netmicroservices\\Shared\\FreeCourse.Shared\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/overcodexdev/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\doguk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8669,7 +8677,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
