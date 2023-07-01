@@ -52,7 +52,7 @@ namespace FreeCourse.IdentityServer
                 },
                  new Client
                 {
-                    ClientName="Aspnet Mvc Web App",
+                    ClientName="Aspnet Mvc Web App For User",
                     ClientId="WebMvcClientForUser",
                     AllowOfflineAccess=true,
                     ClientSecrets={new Secret("secret".Sha256())},

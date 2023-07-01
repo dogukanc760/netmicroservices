@@ -1,26 +1,32 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{2D8A6D14-B5F1-47B9-888B-DF9BB36A2279}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Catalog", "Catalog", "{386A3B01-8920-4266-9577-BEFA64F34668}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCourse.Services.Catalog", "Services\Catalog\FreeCourse.Services.Catalog\FreeCourse.Services.Catalog.csproj", "{5DDAF7DE-C85B-4636-A823-743594C7CF40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeCourse.Services.Catalog", "Services\Catalog\FreeCourse.Services.Catalog\FreeCourse.Services.Catalog.csproj", "{5DDAF7DE-C85B-4636-A823-743594C7CF40}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7C0A81AA-BC7D-4233-B794-276F1AD0B716}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{5A77932A-AE87-46E3-9A75-86BFFF3EA6B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCourse.Shared", "Shared\FreeCourse.Shared\FreeCourse.Shared.csproj", "{09272409-4CE1-4276-BAC6-F20C0BF479AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeCourse.Shared", "Shared\FreeCourse.Shared\FreeCourse.Shared.csproj", "{09272409-4CE1-4276-BAC6-F20C0BF479AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer", "IdentityServer", "{2FB66273-8561-47FE-9670-A0BDBC176B0A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeCourse.IdentityServer", "IdentityServer\FreeCourse.IdentityServer\FreeCourse.IdentityServer.csproj", "{EA7FB35E-BAB3-4F21-AD9B-314375D01E15}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PhotoStock", "PhotoStock", "{A5D6DE91-A84B-485A-95C4-9B12F3353806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCourse.Services.PhotoStock", "Services\PhotoStock\FreeCourse.Services.PhotoStock\FreeCourse.Services.PhotoStock.csproj", "{0CC063A0-3032-4857-A646-CD4902E8EA53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{386A3B01-8920-4266-9577-BEFA64F34668} = {2D8A6D14-B5F1-47B9-888B-DF9BB36A2279}
-		{5DDAF7DE-C85B-4636-A823-743594C7CF40} = {386A3B01-8920-4266-9577-BEFA64F34668}
-		{09272409-4CE1-4276-BAC6-F20C0BF479AB} = {5A77932A-AE87-46E3-9A75-86BFFF3EA6B3}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{5DDAF7DE-C85B-4636-A823-743594C7CF40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -31,5 +37,24 @@ Global
 		{09272409-4CE1-4276-BAC6-F20C0BF479AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09272409-4CE1-4276-BAC6-F20C0BF479AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09272409-4CE1-4276-BAC6-F20C0BF479AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA7FB35E-BAB3-4F21-AD9B-314375D01E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7FB35E-BAB3-4F21-AD9B-314375D01E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7FB35E-BAB3-4F21-AD9B-314375D01E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7FB35E-BAB3-4F21-AD9B-314375D01E15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CC063A0-3032-4857-A646-CD4902E8EA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CC063A0-3032-4857-A646-CD4902E8EA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CC063A0-3032-4857-A646-CD4902E8EA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CC063A0-3032-4857-A646-CD4902E8EA53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{386A3B01-8920-4266-9577-BEFA64F34668} = {2D8A6D14-B5F1-47B9-888B-DF9BB36A2279}
+		{5DDAF7DE-C85B-4636-A823-743594C7CF40} = {386A3B01-8920-4266-9577-BEFA64F34668}
+		{09272409-4CE1-4276-BAC6-F20C0BF479AB} = {5A77932A-AE87-46E3-9A75-86BFFF3EA6B3}
+		{EA7FB35E-BAB3-4F21-AD9B-314375D01E15} = {2FB66273-8561-47FE-9670-A0BDBC176B0A}
+		{A5D6DE91-A84B-485A-95C4-9B12F3353806} = {2D8A6D14-B5F1-47B9-888B-DF9BB36A2279}
+		{0CC063A0-3032-4857-A646-CD4902E8EA53} = {A5D6DE91-A84B-485A-95C4-9B12F3353806}
 	EndGlobalSection
 EndGlobal

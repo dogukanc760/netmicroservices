@@ -1,0 +1,10 @@
+C:\Users\doguk\Documents\netmicroservices\Shared\FreeCourse.Shared\bin\Release\netstandard2.1\FreeCourse.Shared.deps.json
+C:\Users\doguk\Documents\netmicroservices\Shared\FreeCourse.Shared\bin\Release\netstandard2.1\FreeCourse.Shared.dll
+C:\Users\doguk\Documents\netmicroservices\Shared\FreeCourse.Shared\bin\Release\netstandard2.1\FreeCourse.Shared.pdb
+C:\Users\doguk\Documents\netmicroservices\Shared\FreeCourse.Shared\obj\Release\netstandard2.1\FreeCourse.Shared.csproj.AssemblyReference.cache
+C:\Users\doguk\Documents\netmicroservices\Shared\FreeCourse.Shared\obj\Release\netstandard2.1\FreeCourse.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doguk\Documents\netmicroservices\Shared\FreeCourse.Shared\obj\Release\netstandard2.1\FreeCourse.Shared.AssemblyInfoInputs.cache
+C:\Users\doguk\Documents\netmicroservices\Shared\FreeCourse.Shared\obj\Release\netstandard2.1\FreeCourse.Shared.AssemblyInfo.cs
+C:\Users\doguk\Documents\netmicroservices\Shared\FreeCourse.Shared\obj\Release\netstandard2.1\FreeCourse.Shared.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Documents\netmicroservices\Shared\FreeCourse.Shared\obj\Release\netstandard2.1\FreeCourse.Shared.dll
+C:\Users\doguk\Documents\netmicroservices\Shared\FreeCourse.Shared\obj\Release\netstandard2.1\FreeCourse.Shared.pdb
