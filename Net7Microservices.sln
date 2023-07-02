@@ -27,6 +27,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basket", "Basket", "{E137F2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCourse.Services.Basket", "Services\Basket\FreeCourse.Services.Basket\FreeCourse.Services.Basket.csproj", "{5F6A0C78-24D3-4964-BB71-11C4A0174A05}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Discount", "Discount", "{273D0DBF-6894-4065-B1C1-ED8CE1A413DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCourse.Services.Discounts", "Services\Discount\FreeCourse.Services.Discounts\FreeCourse.Services.Discounts.csproj", "{010B39AC-C4C9-45B6-A3DC-DAA237644753}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +57,10 @@ Global
 		{5F6A0C78-24D3-4964-BB71-11C4A0174A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F6A0C78-24D3-4964-BB71-11C4A0174A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F6A0C78-24D3-4964-BB71-11C4A0174A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{010B39AC-C4C9-45B6-A3DC-DAA237644753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{010B39AC-C4C9-45B6-A3DC-DAA237644753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{010B39AC-C4C9-45B6-A3DC-DAA237644753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{010B39AC-C4C9-45B6-A3DC-DAA237644753}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,5 +74,10 @@ Global
 		{0CC063A0-3032-4857-A646-CD4902E8EA53} = {A5D6DE91-A84B-485A-95C4-9B12F3353806}
 		{E137F23E-99AB-4551-A729-CB0EB56C4384} = {2D8A6D14-B5F1-47B9-888B-DF9BB36A2279}
 		{5F6A0C78-24D3-4964-BB71-11C4A0174A05} = {E137F23E-99AB-4551-A729-CB0EB56C4384}
+		{273D0DBF-6894-4065-B1C1-ED8CE1A413DF} = {2D8A6D14-B5F1-47B9-888B-DF9BB36A2279}
+		{010B39AC-C4C9-45B6-A3DC-DAA237644753} = {273D0DBF-6894-4065-B1C1-ED8CE1A413DF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DD69F35-849F-4332-A00B-75531E8F0718}
 	EndGlobalSection
 EndGlobal
