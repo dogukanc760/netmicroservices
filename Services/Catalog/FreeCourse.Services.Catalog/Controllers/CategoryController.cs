@@ -1,3 +1,4 @@
+using System;
 using System.Threading.Tasks;
 using FreeCourse.Services.Catalog.Dtos;
 using FreeCourse.Services.Catalog.Services.Abstract;
@@ -19,8 +20,15 @@ namespace FreeCourse.Services.Catalog.Controllers
 
         public async Task<IActionResult> GetAll()
         {
-            var categories = await _categoryService.GetAllAsync();
-            return CreateActionResultInstance(categories);
+            try
+            {
+                var categories = await _categoryService.GetAllAsync();
+                return CreateActionResultInstance(categories);
+            }
+            catch(Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
         [HttpGet("{id}")]

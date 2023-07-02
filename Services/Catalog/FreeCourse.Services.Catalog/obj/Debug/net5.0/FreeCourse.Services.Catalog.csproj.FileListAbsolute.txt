@@ -168,3 +168,10 @@ C:\Users\doguk\Documents\netmicroservices\Services\Catalog\FreeCourse.Services.C
 C:\Users\doguk\Documents\netmicroservices\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\FreeCourse.Services.Catalog.pdb
 C:\Users\doguk\Documents\netmicroservices\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\FreeCourse.Services.Catalog.genruntimeconfig.cache
 C:\Users\doguk\Documents\netmicroservices\Services\Catalog\FreeCourse.Services.Catalog\obj\Debug\net5.0\ref\FreeCourse.Services.Catalog.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Catalog\FreeCourse.Services.Catalog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
