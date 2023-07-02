@@ -17,6 +17,7 @@ namespace FreeCourse.IdentityServer
         {
             new ApiResource("resource_catalog"){Scopes={"catalog_fullpermission"}},
             new ApiResource("photo_stock_catalog"){Scopes={"photo_stock_fullpermission"}},
+            new ApiResource("resource_basket"){Scopes={"basket_fullpermission"}},
             new ApiResource(IdentityServerConstants.LocalApi.ScopeName)
 
         };
@@ -36,6 +37,7 @@ namespace FreeCourse.IdentityServer
             {
                 new ApiScope("catalog_fullpermission","Catalog API allows full access"),
                 new ApiScope("photo_stock_fullpermission","Photo Stock API allows full access"),
+                new ApiScope("basket_fullpermission","Basket API allows full access"),
                 new ApiScope(IdentityServerConstants.LocalApi.ScopeName)
             };
 
@@ -58,6 +60,7 @@ namespace FreeCourse.IdentityServer
                     ClientSecrets={new Secret("secret".Sha256())},
                     AllowedGrantTypes=GrantTypes.ResourceOwnerPassword,
                     AllowedScopes={
+                         "basket_fullpermission",
                          IdentityServerConstants.StandardScopes.Email, IdentityServerConstants.StandardScopes.OpenId,
                          IdentityServerConstants.StandardScopes.Profile, IdentityServerConstants.StandardScopes.OfflineAccess,IdentityServerConstants.LocalApi.ScopeName,
                          "roles"
