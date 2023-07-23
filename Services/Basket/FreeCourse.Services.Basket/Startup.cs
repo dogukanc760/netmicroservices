@@ -38,7 +38,12 @@ namespace FreeCourse.Services.Basket
 
             var requireAuthorizePolicy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build();
             JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Remove("sub");
-
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
+            {
+                options.Authority = Configuration["IdentityServerURL"];
+                options.Audience = "resource_basket";
+                options.RequireHttpsMetadata = false;
+            });
             services.Configure<RedisSettings>(Configuration.GetSection("RedisSettings"));
             services.AddHttpContextAccessor();
             services.AddScoped<ISharedIdentityService, SharedIdentityService>();
@@ -52,12 +57,7 @@ namespace FreeCourse.Services.Basket
                 return redis;
             });
 
-            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
-            {
-                options.Authority = Configuration["IdentityServerURL"];
-                options.Audience = "resource_basket";
-                options.RequireHttpsMetadata = false;
-            });
+            
 
             services.AddControllers(opt =>
             {

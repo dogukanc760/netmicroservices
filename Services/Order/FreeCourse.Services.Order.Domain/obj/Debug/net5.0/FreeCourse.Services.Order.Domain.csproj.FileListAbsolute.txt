@@ -1,0 +1,15 @@
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.deps.json
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.pdb
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.Domain\bin\Debug\net5.0\FreeCourse.Services.Order.Domain.Core.pdb
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.csproj.AssemblyReference.cache
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.AssemblyInfoInputs.cache
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.AssemblyInfo.cs
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.csproj.CoreCompileInputs.cache
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.csproj.CopyComplete
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\refint\FreeCourse.Services.Order.Domain.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\FreeCourse.Services.Order.Domain.pdb
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.Domain\obj\Debug\net5.0\ref\FreeCourse.Services.Order.Domain.dll
