@@ -100,3 +100,12 @@ C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Ord
 C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.API\bin\Debug\net5.0\Automatonymous.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.API\bin\Debug\net5.0\GreenPipes.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.API\bin\Debug\net5.0\MassTransit.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.API\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.API\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.API\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.API\bin\Debug\net5.0\NewId.dll
+C:\Users\doguk\Documents\netmicroservices\Services\Order\FreeCourse.Services.Order.API\bin\Debug\net5.0\RabbitMQ.Client.dll
